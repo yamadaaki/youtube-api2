@@ -1,4 +1,4 @@
-# youtube_unlimited_api
+# youtube_api2
 
 ```
 pip install youtube-api2
